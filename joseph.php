@@ -19,6 +19,8 @@
 		if it is dead: 1, 3, 5, ... delete the indexes
 		if not: 0, 2, 4, ... delete indexes
 
+		translate: google translate (sorry about that). :)
+
 	-->
 
 	<h1>joseph problem?</h1>
