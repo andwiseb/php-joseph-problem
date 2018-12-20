@@ -12,9 +12,9 @@
 
 	<!--
 
-		golden rule
-		---------------------
-		"check the last element of an uppermost array (dead or not?)"
+		*golden rule*
+
+		check the last element of an uppermost array (dead or not?)
 
 		if it is dead: 1, 3, 5, ... delete the indexes
 		if not: 0, 2, 4, ... delete indexes
